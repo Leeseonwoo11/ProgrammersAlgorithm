@@ -1,0 +1,4 @@
+﻿  Ground eating.cpp
+c:\study\programmersalgorithm\ground eating\ground eating\ground eating.cpp(18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\ground eating\ground eating\ground eating.cpp(20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Ground eating.vcxproj -> C:\Study\ProgrammersAlgorithm\Ground eating\Debug\Ground eating.exe

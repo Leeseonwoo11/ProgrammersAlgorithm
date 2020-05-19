@@ -1,0 +1,8 @@
+﻿  Cache.cpp
+c:\users\sw067\source\repos\cache\cache\cache.cpp(37): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sw067\source\repos\cache\cache\cache.cpp(47): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sw067\source\repos\cache\cache\cache.cpp(57): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sw067\source\repos\cache\cache\cache.cpp(59): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sw067\source\repos\cache\cache\cache.cpp(68): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sw067\source\repos\cache\cache\cache.cpp(79): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  Cache.vcxproj -> C:\Users\sw067\source\repos\Cache\Debug\Cache.exe

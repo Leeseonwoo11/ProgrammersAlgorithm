@@ -1,0 +1,11 @@
+﻿  Candidate key.cpp
+c:\study\programmersalgorithm\candidate key\candidate key\candidate key.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\candidate key\candidate key\candidate key.cpp(29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\candidate key\candidate key\candidate key.cpp(58): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\candidate key\candidate key\candidate key.cpp(61): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\candidate key\candidate key\candidate key.cpp(85): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\candidate key\candidate key\candidate key.cpp(90): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\candidate key\candidate key\candidate key.cpp(102): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\candidate key\candidate key\candidate key.cpp(106): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\candidate key\candidate key\candidate key.cpp(109): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Candidate key.vcxproj -> C:\Study\ProgrammersAlgorithm\Candidate key\Debug\Candidate key.exe

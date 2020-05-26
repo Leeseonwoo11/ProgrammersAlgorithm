@@ -1,0 +1,6 @@
+﻿  That song.cpp
+c:\study\programmersalgorithm\that song\that song\that song.cpp(31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\that song\that song\that song.cpp(50): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\that song\that song\that song.cpp(82): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\that song\that song\that song.cpp(127): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  That song.vcxproj -> C:\Study\ProgrammersAlgorithm\That song\Debug\That song.exe

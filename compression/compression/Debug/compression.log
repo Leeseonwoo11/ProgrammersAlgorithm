@@ -1,0 +1,4 @@
+﻿  compression.cpp
+c:\study\programmersalgorithm\compression\compression\compression.cpp(47): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\compression\compression\compression.cpp(56): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  compression.vcxproj -> C:\Study\ProgrammersAlgorithm\compression\Debug\compression.exe

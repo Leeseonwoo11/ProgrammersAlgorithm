@@ -1,0 +1,5 @@
+﻿  Function development.cpp
+c:\study\programmersalgorithm\function development\function development\function development.cpp(17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\function development\function development\function development.cpp(22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\function development\function development\function development.cpp(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Function development.vcxproj -> C:\Study\ProgrammersAlgorithm\Function development\Debug\Function development.exe

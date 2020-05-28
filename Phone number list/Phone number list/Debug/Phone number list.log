@@ -1,0 +1,4 @@
+﻿  Phone number list.cpp
+c:\study\programmersalgorithm\phone number list\phone number list\phone number list.cpp(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\phone number list\phone number list\phone number list.cpp(35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Phone number list.vcxproj -> C:\Study\ProgrammersAlgorithm\Phone number list\Debug\Phone number list.exe

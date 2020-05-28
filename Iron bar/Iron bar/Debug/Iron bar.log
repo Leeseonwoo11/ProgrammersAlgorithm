@@ -1,0 +1,5 @@
+﻿  Iron bar.cpp
+c:\study\programmersalgorithm\iron bar\iron bar\iron bar.cpp(14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\iron bar\iron bar\iron bar.cpp(19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\iron bar\iron bar\iron bar.cpp(41): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Iron bar.vcxproj -> C:\Study\ProgrammersAlgorithm\Iron bar\Debug\Iron bar.exe

@@ -1,0 +1,6 @@
+﻿  Skill Tree.cpp
+c:\study\programmersalgorithm\skill tree\skill tree\skill tree.cpp(15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\skill tree\skill tree\skill tree.cpp(18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\skill tree\skill tree\skill tree.cpp(20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\skill tree\skill tree\skill tree.cpp(29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Skill Tree.vcxproj -> C:\Study\ProgrammersAlgorithm\Skill Tree\Debug\Skill Tree.exe

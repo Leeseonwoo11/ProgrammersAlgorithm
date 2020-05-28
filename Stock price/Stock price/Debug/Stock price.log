@@ -1,0 +1,4 @@
+﻿  Stock price.cpp
+c:\study\programmersalgorithm\stock price\stock price\stock price.cpp(14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\stock price\stock price\stock price.cpp(18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Stock price.vcxproj -> C:\Study\ProgrammersAlgorithm\Stock price\Debug\Stock price.exe

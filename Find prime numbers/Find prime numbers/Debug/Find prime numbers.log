@@ -1,0 +1,8 @@
+﻿  Find prime numbers.cpp
+c:\study\programmersalgorithm\find prime numbers\find prime numbers\find prime numbers.cpp(30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\find prime numbers\find prime numbers\find prime numbers.cpp(43): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\find prime numbers\find prime numbers\find prime numbers.cpp(73): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\find prime numbers\find prime numbers\find prime numbers.cpp(76): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\find prime numbers\find prime numbers\find prime numbers.cpp(83): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\study\programmersalgorithm\find prime numbers\find prime numbers\find prime numbers.cpp(85): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Find prime numbers.vcxproj -> C:\Study\ProgrammersAlgorithm\Find prime numbers\Debug\Find prime numbers.exe
